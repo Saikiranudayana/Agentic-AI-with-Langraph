@@ -5,3 +5,5 @@ langchain-core
 langchain-groq
 python-dotenv
 langchain-openai
+arxiv 
+wikipedia 
